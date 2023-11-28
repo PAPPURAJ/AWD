@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "734007010961",
+    "firebase_url": "https://waterlevel-2250a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "waterlevel-2250a",
+    "storage_bucket": "waterlevel-2250a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734007010961:android:efee39e4b82c900a0a0130",
+        "android_client_info": {
+          "package_name": "com.example.fieldwater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8WVEwpncBlFWZ_eTsQjLDawUVItqchg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
