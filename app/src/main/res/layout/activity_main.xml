@@ -44,5 +44,14 @@
         android:text="Show graph"
         android:layout_gravity="center|bottom"
         android:onClick="gotoGraphClick"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:text="Setting"
+        android:layout_gravity="center|bottom"
+        android:onClick="gotoSetting"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

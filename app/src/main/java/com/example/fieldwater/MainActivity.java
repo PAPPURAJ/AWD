@@ -76,4 +76,8 @@ public class MainActivity extends AppCompatActivity {
     public void gotoGraphClick(View view) {
         startActivity(new Intent(this,GraphActivity.class));
     }
+
+    public void gotoSetting(View view) {
+        startActivity(new Intent(this,Setting.class));
+    }
 }
